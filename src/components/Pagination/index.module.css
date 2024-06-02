@@ -1,0 +1,10 @@
+.pagination-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size:11px;
+}
+
+.page-number {
+  margin: 0 10px;
+}

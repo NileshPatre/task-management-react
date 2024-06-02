@@ -1,0 +1,11 @@
+.modalTitle {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.backLink {
+  padding: 10px;
+}

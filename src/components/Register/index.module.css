@@ -1,0 +1,54 @@
+.formContainer {
+  /* display: flex;
+    flex-direction: column;*/
+  align-items: center;
+  font-size: 12px;
+  width: 70%;
+}
+
+.formRow {
+  margin-bottom: 10px;
+}
+
+.formCol {
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.label {
+  margin-bottom: 5px;
+}
+
+.inputFieldContainer {
+  display: flex;
+  flex-direction: column;
+}
+
+.inputField {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 12px;
+  margin-bottom: 10px;
+}
+.footer {
+  display: flex;
+  justify-content: center;
+  padding-top: 20px;
+}
+
+.customCard {
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+  width: 50%;
+}
+.backLink {
+  padding: 10px;
+}
+.customButton {
+  font-size: 11px;
+  font-weight: bold;
+}
